@@ -2,7 +2,7 @@
 
 1. Clonar repositorio
 ```
-git clone https://
+git clone https://github.com/edwleo/rest-api-software.git
 ```
 
 2. Reconstruir node_modules
